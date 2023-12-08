@@ -1,0 +1,27 @@
+# Dependency directories
+node_modules/
+
+# Debug log from npm
+npm-debug.log*
+
+# Yarn integrity file
+.yarn-integrity
+
+# Environment variables
+.env
+
+# Production build directory
+/dist
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE specific files
+.idea/
+.vscode/
+*.sublime-workspace
+
+# Logs
+logs
+*.log
